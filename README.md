@@ -32,3 +32,7 @@ Mini analysis, event detection and statistics:
 
 Analysis of spike trains acquired simultaneously from 5 bursting neurons.
 ![NEx_3](https://github.com/attilaszuc/NeuroExpress/assets/149586298/723d63f8-f3bd-4c1c-8182-ba8cb1305b74)
+
+
+![05311011_mvnl_P2](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/c6d0fd97-641d-40af-ab78-58c6d3250290)
+![05311011_mvnl_P1](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/d763b83b-1239-476c-8538-83f0d945572c)
