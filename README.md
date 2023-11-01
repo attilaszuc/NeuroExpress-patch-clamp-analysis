@@ -28,8 +28,8 @@ Calculating cellular properties from data obtained via current step stimulation:
 
 Mini analysis, event detection and statistics:
 ![NEx_2](https://github.com/attilaszuc/NeuroExpress/assets/149586298/84de489a-b6ae-4350-941a-260e7ff65773)
+![210907_c01_01_S3_2ch_VCl_P6](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/8c2b3aaf-3514-4e4b-8dca-b7e5bbcc7291)
 
 Analysis of spike trains acquired simultaneously from 5 bursting neurons.
 ![NEx_3](https://github.com/attilaszuc/NeuroExpress/assets/149586298/723d63f8-f3bd-4c1c-8182-ba8cb1305b74)
 
-![210831_c04_01_S3_IV](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/aa2b9e37-08db-45df-b9b9-b6b52f5d469a)
