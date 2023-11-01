@@ -21,4 +21,13 @@ on ResearchGate). Please contact me if you have any question regarding the use o
 Feedback is appreciated, please report issues or bugs.
 
 Tutorials are also available on Youtube accessible from the Help menu of the program.
+Screenshots of the program performing various types of analysis are below.
+
+Calculating cellular properties from data obtained via current step stimulation:
 ![NEx_1](https://github.com/attilaszuc/NeuroExpress/assets/149586298/39357bd8-302a-4655-9049-cef534b32e4f)
+
+Mini analysis, event detection and statistics:
+![NEx_2](https://github.com/attilaszuc/NeuroExpress/assets/149586298/84de489a-b6ae-4350-941a-260e7ff65773)
+
+Analysis of spike trains acquired simultaneously from 5 bursting neurons.
+![NEx_3](https://github.com/attilaszuc/NeuroExpress/assets/149586298/723d63f8-f3bd-4c1c-8182-ba8cb1305b74)
