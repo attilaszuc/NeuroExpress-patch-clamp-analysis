@@ -26,7 +26,7 @@ Screenshots of the program performing various types of analysis are below.
 Calculating cellular properties from data obtained via current step stimulation:
 ![NEx_1](https://github.com/attilaszuc/NeuroExpress/assets/149586298/39357bd8-302a-4655-9049-cef534b32e4f)
 ![230504_c09_01_MSc2_IV](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/7f6b945b-2b76-4320-8c5b-5c750ee3133f)
-
+![230504_c09_01_MSc2_IV](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/29a8d4b4-5914-4d7b-8205-3d14c53366fe)
 
 Mini analysis, event detection and statistics:
 ![NEx_2](https://github.com/attilaszuc/NeuroExpress/assets/149586298/84de489a-b6ae-4350-941a-260e7ff65773)
