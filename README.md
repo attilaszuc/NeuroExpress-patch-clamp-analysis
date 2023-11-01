@@ -21,3 +21,4 @@ on ResearchGate). Please contact me if you have any question regarding the use o
 Feedback is appreciated, please report issues or bugs.
 
 Tutorials are also available on Youtube accessible from the Help menu of the program.
+![NEx_1](https://github.com/attilaszuc/NeuroExpress/assets/149586298/39357bd8-302a-4655-9049-cef534b32e4f)
