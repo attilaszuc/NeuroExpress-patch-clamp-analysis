@@ -31,6 +31,7 @@ Mini analysis, event detection and statistics:
 ![210907_c01_01_S3_2ch_VCl_P6](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/8c2b3aaf-3514-4e4b-8dca-b7e5bbcc7291)
 
 Analysis of spike trains acquired simultaneously from 5 bursting neurons.
-![NEx_3](https://github.com/attilaszuc/NeuroExpress/assets/149586298/723d63f8-f3bd-4c1c-8182-ba8cb1305b74) ![05311001_mvnl_P1](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/ec8e017a-7622-42f7-aeb3-1085652fa54b)
+![NEx_3](https://github.com/attilaszuc/NeuroExpress/assets/149586298/723d63f8-f3bd-4c1c-8182-ba8cb1305b74)  Fourier-spectra of 6 firing output.
+![05311001_mvnl_P1](https://github.com/attilaszuc/NeuroExpress-patch-clamp-analysis/assets/149586298/ec8e017a-7622-42f7-aeb3-1085652fa54b)  Spike densities.
 
 
