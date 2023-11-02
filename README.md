@@ -1,9 +1,9 @@
 # NeuroExpress
-NeuroExpress patch clamp data analysis software version 23.9.01
+NeuroExpress patch clamp data analysis software version 23.9.01.
 NeuroExpress is a fast Windows 10 compatible analysis program designed for the analysis of the following type of data:
 
-1) Voltage responses of neurons measured in whole-cell configuration stimulated with current steps (intrinsic cellular properties, membrane resistance,
-   membrane capacitance, rheobase, spike amplitude, voltage sag, etc.)
+1) Voltage responses of neurons measured in whole-cell configuration stimulated with current steps (intrinsic cellular properties, intrinsic excitability,
+   membrane resistance, membrane capacitance, rheobase, spike amplitude, voltage sag, etc.)
 2) Spontaneous or miniature postsynaptic currents (mini analysis). Several mini parameters are calculated semi-automatically including event intervals,
    event amplitudes, charge, IEI, histograms, decay time constants, etc.
 3) Spike trains, spontaneous action potential trains recorded in whole-cell mode or extracellularly. (Interspike intervals, Poincare-maps, spike density functions,
